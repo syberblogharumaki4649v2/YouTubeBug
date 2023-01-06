@@ -49,3 +49,5 @@ https://youtu.be/xBOzAGteGoI
 ![image](https://github.com/yukkuributti/YouTubeBug/blob/main/screenshot/%E7%84%A1%E9%A1%8C%202023-01-06%2023-28-07.png?raw=true)  
 つけたし終わったら転送をし、インターセプトを切ります  
 するとメンバー限定になっているはずです  
+### チュートリアル動画  
+https://youtu.be/OyO_bMKH--4  
