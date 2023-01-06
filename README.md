@@ -7,8 +7,8 @@ And don't forget to SUBSCRIBE!
 これはYouTube上のPOSTを書き換えることで発生させることができるバグをまとめ、やり方を記録しているリポジトリです
 下記の2つから言語をお選びいただけます
 また、サブスクライブをお忘れずに！  
-## [日本語チュートリアル](/japanese-README.md)
-## [EnglishTutorial](/english-README.md)  
+## [日本語チュートリアル](/docs/japanese-README.md)
+## [EnglishTutorial](/docs/english-README.md)  
 ## Please Subscribe!  
 ### [YouTube](https://youtube.com/@yukkuri_butti)  
 ### [Twitter](https://twitter.com/yukkuri_butti)  
