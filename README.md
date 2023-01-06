@@ -18,6 +18,7 @@ Press the publish button in the upper right corner
 **Step7**  
 BurpSuite to get POST and
 Look for the videoid and title items  
+![image](https://user-images.githubusercontent.com/85279289/210966367-187b493e-05b6-49ba-b04f-b7b9349fbd92.png)
 **Step8**  
 "title","""
 There is an entry called
