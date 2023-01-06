@@ -28,3 +28,5 @@ Now you can use TextGlitch!
 ## Japanese Tutorial Video  
 https://youtu.be/xBOzAGteGoI
 
+## 2.Mebmership Only  
+Still validating...  
