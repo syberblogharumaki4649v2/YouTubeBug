@@ -1,5 +1,5 @@
 # YouTubeのハックチュートリアル  
-## [EnglishTutorial](/english-README.md)
+## [EnglishTutorial](/docs/english-README.md)
 ## 1.テキストグリッチ  
 ![image](https://user-images.githubusercontent.com/85279289/210968779-fe86b148-33f3-4183-8e26-6eef956441ee.png)
 **ステップ1**  
