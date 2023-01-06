@@ -25,7 +25,7 @@ There is an entry called
 The content of the "" should be arbitrary.  
 Now you can use TextGlitch!  
   
-## Japanese Tutorial Video  
+### Japanese Tutorial Video  
 https://youtu.be/xBOzAGteGoI
 
 ## 2.Mebmership Only  
