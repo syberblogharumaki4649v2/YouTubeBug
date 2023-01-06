@@ -26,7 +26,7 @@ VideoIDとTitleを探します
 この中の""を任意にすることでこのバグを使うことができます  
 ※"title"は変更しないでください  
 ,のあとの""の中身を書き換えてください  
-**ステップ9**
+**ステップ9**  
 転送を押し、インターセプトを切ります  
 これで完了です  
   
@@ -34,4 +34,18 @@ VideoIDとTitleを探します
 https://youtu.be/xBOzAGteGoI  
 
 ## 2.メンバーシップ  
-※まだ調査中です  
+**ステップ1**  
+メンバーシップ限定にしたい動画で、限定公開を選びます  
+※その時にインターセプトをつけてください  
+**ステップ2**  
+![image](https://github.com/yukkuributti/YouTubeBug/blob/main/screenshot/%E7%84%A1%E9%A1%8C%202023-01-06%2023-27-53.png?raw=true)  
+画像の場所にいき、次の内容を付け足します  
+```   
+"sponsorsOnly":{
+"isSponsorsOnly":true
+},
+```   
+画像のようになればOKです  
+![image](https://github.com/yukkuributti/YouTubeBug/blob/main/screenshot/%E7%84%A1%E9%A1%8C%202023-01-06%2023-28-07.png?raw=true)  
+つけたし終わったら転送をし、インターセプトを切ります  
+するとメンバー限定になっているはずです  
