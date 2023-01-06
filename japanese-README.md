@@ -33,5 +33,5 @@ VideoIDとTitleを探します
 ### チュートリアル動画  
 https://youtu.be/xBOzAGteGoI  
 
-## メンバーシップ  
+## 2.メンバーシップ  
 ※まだ調査中です  
