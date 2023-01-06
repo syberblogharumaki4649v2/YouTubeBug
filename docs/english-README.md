@@ -1,5 +1,5 @@
 # YouTube Hack Tutorial  
-## [日本語チュートリアル](/japanese-README.md)
+## [日本語チュートリアル](/docs/japanese-README.md)
 ## 1.TextGlitch  
 ![image](https://user-images.githubusercontent.com/85279289/210968779-fe86b148-33f3-4183-8e26-6eef956441ee.png)  
 **Step1**  
