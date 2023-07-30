@@ -51,3 +51,6 @@ https://youtu.be/xBOzAGteGoI
 するとメンバー限定になっているはずです  
 ### チュートリアル動画  
 https://youtu.be/OyO_bMKH--4  
+
+## 3.注目セクションを増やす
+**ステップ1**
